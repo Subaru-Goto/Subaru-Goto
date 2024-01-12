@@ -8,7 +8,7 @@ I have more than 5 years of data science and analytic experience. I am currently
 
 * 🌍  I'm based in Berlin
 * ✉️  You can contact me at [subaru.goto@gmail.com](mailto:subaru.goto@gmail.com)
-* 🧠  I'm learning Java Script & React
+* 🧠  I'm learning Next.js
 
 ### Skills
 
