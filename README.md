@@ -4,7 +4,7 @@ Hi 👋 My name is Subaru Goto
 Analytics & Web Developer
 -------------------------
 
-I have more than 5 years of data science and analytic experience. I am currently focusing on web & app developments.
+I have more than 5 years of data science and analytic experiences. I am currently focusing on web & app developments.
 
 * 🌍  I'm based in Berlin
 * ✉️  You can contact me at [subaru.goto@gmail.com](mailto:subaru.goto@gmail.com)
